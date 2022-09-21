@@ -27,12 +27,13 @@ Meishi trackball module can be used as a mini trackball running on QMK. Keycodes
 |OLEDモジュール|1個||
 |OLED用ピンソケット|1個||
 |OLED用ピンヘッダ|1個||
-|34mmボール|1個|34mmボールケースを選択した場合|
-|M2ねじ6mm|4本||
+|リセットスイッチ|1個||
+|34mmボール|1個||
+|M2ねじ 6mm|4本||
 |M2ナット|4個||
 |アクリルボトムプレート|1枚|オプション|
-|M2ねじ4mm|8本||
-|M2スペーサー6mm|4本||
+|M2ねじ 4mm|8本||
+|M2スペーサー 6mm|4本||
 
 ![trackball_module_main01](/images/main_01.jpg)
 
