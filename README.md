@@ -40,6 +40,9 @@ Meishi trackball module can be used as a mini trackball running on QMK. Keycodes
 ![trackball_module_main02](/images/main_02.jpg)
 
 ## 2. Trackball Module
+
+![trackball_module_main03](/images/main_03.jpg)
+
 Square part located at the center of Meishi PCB can be cut off and used as a trackball module. There are several ways to connect this module with main boards.
 
 1. Pin Headers & Pin Sockets  

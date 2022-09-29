@@ -1,0 +1,28 @@
+{
+  "name": "trackball module",
+  "vendorId": "0x1727",
+  "productId": "0x0004",
+  "lighting": "none",
+  "matrix": { "rows":1, "cols": 5 },
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,2",
+        "0,1"
+      ],
+      [
+        {
+          "y": 0.25,
+          "x": 0.75,
+          "w": 0.75
+        },
+        "0,3",
+        {
+          "w": 0.75
+        },
+        "0,4"
+      ]
+    ]
+  }
+}
