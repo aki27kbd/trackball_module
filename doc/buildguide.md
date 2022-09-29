@@ -56,8 +56,6 @@ meishi trackball moduleは、名刺サイズ（55mm×91mm）の自作トラッ�
 
 
 ## 組み立て
-### 0. 部品確認
-
 
 ### 1. センサー
 
@@ -144,7 +142,7 @@ meishi trackball moduleは、名刺サイズ（55mm×91mm）の自作トラッ�
 
 ## ファームウェア
 
-  [REMAP]()からファームウェアのダウンロードおよびProMicroへの書き込みを行うことができます。キーマップは[こちら](https://remap-keys.app/configure)から更新可能です。  
+  [REMAP](https://remap-keys.app/catalog/YTktEniNbS090Dnwr0mk/firmware)からファームウェアのダウンロードおよびProMicroへの書き込みを行うことができます。キーマップは[こちら](https://remap-keys.app/configure)から更新可能です。  
 トラックボール、LED含めて上記.hexファイルで確認いただけます。
 
 （.hexファイルをQMK ToolboxなどでProMicroに書き込む従来の方法でも問題ありません。）
