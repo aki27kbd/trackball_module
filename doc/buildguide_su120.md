@@ -95,6 +95,16 @@ meishi trackball moduleのベースキットの他に、下記パーツを用い
 
   meishi trackball moduleやcocot46plus同様にカスタムキーコードによってトラックボールの状態を変更することも可能です。
 
+## Next Step
+
+  SU120でのトラックボール実装ができたら、次はオリジナルのトラックボール搭載キーボードにチャレンジしてみてください。  
+  meishi trackball moduleの外形線やパーツ配置、ねじ穴の位置などは[meishi_trackball_module_issue.dxf](https://github.com/aki27kbd/trackball_module/blob/main/hardware/meishi_trackball_module_issue.dxf)を参照してください。  
+  また、基板上にセンサーなどを実装することにチャレンジする場合はこちらの[回路図](https://github.com/aki27kbd/trackball_module/blob/main/hardware/meishi_trackball_module_schematics.pdf)を参考にしてください。
+
+  *部品の入手性などを考慮して、一部抵抗やコンデンサなどデータシートに記載された値から変えているものがありますのでご注意ください。  
+  *データ改編やこちらのデータを元に自身で作成されたものに関しては一切の責任を負いません。あらかじめご了承ください。
+
+
 ## 終わりに
 
   何かトラブルがあれば[Twitterアカウント](https://twitter.com/aki27kbd)までご連絡ください。
