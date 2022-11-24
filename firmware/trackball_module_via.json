@@ -4,6 +4,15 @@
   "productId": "0x0004",
   "lighting": "none",
   "matrix": { "rows":1, "cols": 5 },
+  "customKeycodes": [
+    {"name": "CPI_SW", "title": "Change CPI of trackball", "shortName": "CPI_SW"},
+    {"name": "SCRL_SW", "title": "Change sensitivity of scroll mode", "shortName": "SCRL_SW"},
+    {"name": "ROT_R15", "title": "Rotate sensor Y-axis by 15 degrees clockwise", "shortName": "ROT_R15"},
+    {"name": "ROT_L15", "title": "Rotate sensor Y-axis by 15 degrees counterclockwise", "shortName": "ROT_L15"},
+    {"name": "SCRL_MO", "title": "Enable scroll mode while being pressed", "shortName": "SCRL_MO"},
+    {"name": "SCRL_TO", "title": "Toggle scroll and cursor mode each time pressed", "shortName": "SCRL_TO"},
+    {"name": "SCRL_IN", "title": "Invert scroll direction", "shortName": "SCRL_IN"}
+  ],
   "layouts": {
     "keymap": [
       [
