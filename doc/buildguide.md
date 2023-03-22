@@ -25,6 +25,7 @@ meishi trackball moduleは、名刺サイズ（55mm×91mm）の自作トラッ�
 |名前|数|備考|
 |---|---|---|
 |実装済基板|1枚||
+|ProMicro|1個||
 |マウスセンサー（ADNS-5050）|1個||
 |センサーレンズ|1個||
 |3Dプリント製ボールケース|1個||
@@ -113,7 +114,27 @@ meishi trackball moduleは、名刺サイズ（55mm×91mm）の自作トラッ�
 
   ![meishi_bg_14](/images/meishi_bg_14.jpg)
 
-### 5. 組み立て
+### 5. ボールケース
+
+ボールケースにセラミックボールを固定します。（写真はcocot46plusのボールケースになりますが、手順は同様です。）キット内容物以外に必要な道具は下記写真の通り、エポキシ2液混合接着剤、接着剤を取り出す容器、爪楊枝になります。  
+![cocot46plus_bg_ballcase_01](https://user-images.githubusercontent.com/88039287/226820854-839753fa-50cc-49b4-b183-860b4672632e.jpg)
+
+接着剤の取り扱い説明に沿って接着液の準備を行います。  
+![cocot46plus_bg_ballcase_02](https://user-images.githubusercontent.com/88039287/226820885-08b87789-22ed-47b8-828b-e8ba3df3491b.jpg)
+
+爪楊枝の先端に接着剤を少量付け、ボールケース内側の穴に塗ります。塗りすぎるとボールを嵌めた際にあふれてしまうので、窪みの内側が接着剤で薄く覆われる程度を目安としてください。  
+![cocot46plus_bg_ballcase_03](https://user-images.githubusercontent.com/88039287/226820905-af0f3451-a6f7-4ecd-a42f-e3e1407a0052.jpg)
+
+![cocot46plus_bg_ballcase_04](https://user-images.githubusercontent.com/88039287/226820925-2cb8de68-cb62-473e-a874-141fe15a1e09.jpg)
+
+接着剤が乾く前にボールをはめ込みます。接着剤がボールの周りにあふれてしまった場合は固まる前にきれいにふき取ってください。  
+![cocot46plus_bg_ballcase_05](https://user-images.githubusercontent.com/88039287/226820957-14e5d2f1-9693-4ec7-9fb0-9a6081d463f8.jpg)
+
+3箇所すべてボールを接着すればボールケースの準備完了です。  
+![cocot46plus_bg_ballcase_06](https://user-images.githubusercontent.com/88039287/226821043-05606c8c-6c40-4bf9-b368-8b84e1a0726b.jpg)
+
+
+### 6. 組み立て
 
   センサー用レンズをセンサーの上に被せます。レンズの向きに注意してください。
 
